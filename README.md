@@ -91,9 +91,3 @@ hydrogrow-react-demo/
 ├── package.json
 └── README.md
 ```
-
-## Untuk presentasi kepada juri
-
-“Dashboard ini adalah prototipe antarmuka HydroGrow menggunakan **data simulasi**, untuk mendemonstrasikan pemantauan nutrisi secara digital, riwayat, dan notifikasi. Pada tahap integrasi perangkat, angka akan berasal dari probe pH, EC/TDS, dan suhu air yang dibaca melalui mikrokontroler dan dikirim ke backend, lalu ditampilkan di dashboard.”
-
-Batas contoh pH 5.5–6.5, EC 1.0–2.0 mS/cm, suhu 20–28°C **bukan rekomendasi universal untuk setiap tanaman**. Setel sesuai jenis tanaman dan kondisi nyata setelah konsultasi agronomi.
